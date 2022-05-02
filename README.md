@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ## GitHub Learning Lab 
 - GitHub has a free, hands-on learning experience where you progress through learning objectives with real-time bot responses to your actions! You can find more about it [here](https://lab.github.com/)
 
-**Happy Learning!**
+**Just keep swimming!**
 ![mona-ocean](https://user-images.githubusercontent.com/6351798/94487808-c8304800-019e-11eb-97ef-414924be0e08.gif)
