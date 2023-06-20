@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/a-a-ron/a-a-ron/master/profile-image.png" alt="banner that says this is me - aaron stewart">
+![background](https://github.com/a-a-ron/a-a-ron/assets/6351798/24c48cf7-f581-49cb-bfb8-5d1d648103f6)
+
 
 <!--
 **a-a-ron/a-a-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
